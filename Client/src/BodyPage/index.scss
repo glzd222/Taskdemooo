@@ -1,0 +1,63 @@
+// ....................BODYBIRPAGE....................
+
+#bodybirpage {
+  background-color: #f5399e;
+
+  .bodybirpage {
+    height: 650px;
+    width: 100%;
+    display: flex;
+    position: relative;
+  }
+  img {
+    margin-top: 100px;
+    height: 550px;
+    width: 800px;
+  }
+  .qarisiqh3 {
+    display: flex;
+  }
+  .birh3 {
+    font-size: 23px;
+  }
+
+  .ikih3 {
+    font-size: 50px;
+  }
+
+  h1 {
+    font-size: 70px;
+  }
+  .bodyright {
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    color: white;
+  }
+  .btnnow {
+    border-radius: 20px;
+    padding: 10px 25px 10px 25px;
+  }
+}
+
+// ........................BODYIKINCIPAGE............
+
+#bodyikipage {
+  padding: 0px 0px 80px 0px;
+  .imgs{
+    text-align: center;
+  }
+  .img1 {
+    margin-bottom: 250px;
+    gap: 1rem;
+  }
+  .img4 {
+    width: 700px;
+    margin-top: -400px;
+  }
+  
+  .Bodyikitop{
+    padding: 80px  0px  20px 0px;
+ text-align: center;
+  }
+}

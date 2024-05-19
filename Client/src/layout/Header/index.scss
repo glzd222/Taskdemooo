@@ -1,0 +1,49 @@
+#header {
+   
+  .headertop {
+    display: flex;
+    justify-content: space-between;
+  }
+  .header { 
+    padding: 20px;
+  }
+  .iki {
+    margin-left: 30px;
+  }
+  .bir:hover {
+    background-color: #f635a4;
+  }
+
+  .iki:hover {
+    background-color: #f635a4;
+  }
+  .divright :hover {
+    background-color: #f635a4;
+  }
+  .headerbottom {
+    padding: 30px 0px 0px 0px ;
+  }
+  .headerbottom {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  nav {
+    ul {
+      display: flex;
+      gap: 1.5rem;
+
+      li{
+       a{
+        color: black; 
+       }
+      }
+    }
+  }
+  nav li :hover{
+    background-color: #f635a4;
+  }
+  .login{
+    color: black;
+  }
+}
